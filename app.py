@@ -7,10 +7,10 @@ import time
 import nltk
 import io
 from pypdf import PdfReader # New import for PDF handling
-
+GEMINI_API_KEY = st.secrets["GEMINI_API_KEY"]
 # --- CRITICAL IMPORTS ---
 # Ensure 'config.py' exists with GEMINI_API_KEY = "YOUR_KEY"
-from config import GEMINI_API_KEY 
+ 
 from google import genai
 from google.genai.errors import APIError
 
