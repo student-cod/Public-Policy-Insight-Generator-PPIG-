@@ -1,0 +1,8 @@
+streamlit
+pandas
+google-genai
+spacy
+nltk
+vaderSentiment
+plotly
+pypdf

@@ -1,0 +1,10 @@
+# File containing the GEMINI_API_KEY
+config.py
+
+# A common best practice is also to ignore .env files
+.env
+
+# Example of other common files to ignore
+__pycache__/
+*.pyc
+/venv/
