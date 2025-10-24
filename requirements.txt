@@ -6,3 +6,5 @@ nltk
 vaderSentiment
 plotly
 pypdf
+tabulate
+
