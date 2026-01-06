@@ -92,11 +92,6 @@ PPIG transforms unstructured public feedback into a concise, **actionable 3-poin
 
 ---
 
-## GitHub Repository
-🔗 https://github.com/student-cod/Public-Policy-Insight-Generator-PPIG-
-
----
-
 ## How to Run Locally
 
 ### 1. Clone the Repository
